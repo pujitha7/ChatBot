@@ -28,3 +28,6 @@ Two databases are created one to store time table and other to store remainders.
 # Small Talk
 
 Its always fun to have the chatbot do small talk. A small talk database is used to train the model to do small talk with cosine similarity question matching on a TFIDF matrix.
+
+
+![image](https://user-images.githubusercontent.com/16939123/52484790-30eb3b00-2bdd-11e9-804a-f5e2c4f3be14.png)
