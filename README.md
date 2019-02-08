@@ -1,6 +1,6 @@
  # Student Time-table query ChatBot
 Bot for students to query about their classes, timings, remainders for quizzes, assignments etc
-Chatbot built end to end from intent classification to entity extraction to core model. It is also has small talk functionality.
+Chatbot built end to end from intent classification to entity extraction to core model. It also has small talk functionality.
 
 ## Natural Language Understanding
 * Built Custom NLU model to detect the intent of the question and also extract the entities from the question. For training the NLU model data is created using Chatito.
