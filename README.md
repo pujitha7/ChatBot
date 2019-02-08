@@ -50,10 +50,9 @@ Chatito - Online tool to generate datasets for Chatbot training.
 ** Test the bot.
 * To stop the bot type "bye".
 
-## Files Uploaded:
-
+## DEMO:
 ![image](https://user-images.githubusercontent.com/16939123/52484790-30eb3b00-2bdd-11e9-804a-f5e2c4f3be14.png)
 
 
-## WORK IN PROGRESS:
+## Work in progress:
 Trying to use machine learning in Core engine also.
